@@ -1,0 +1,3 @@
+acosta:clave123
+elavid:mi_clave
+usuario2:pass456

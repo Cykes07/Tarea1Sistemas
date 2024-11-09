@@ -122,6 +122,8 @@ void cilindro(){
 void esfera(){
     float radio,altura;
     printf("\nESFERA\nIngrese la longitud del radio: ");
+    scanf("%f", &radio);
+    printf("\nESFERA\nIngrese la longitud del altura: ");
     scanf("%f", &altura);
     printf("\nVolumen: %.2f\nÁrea de la Superficie: %.2f \n",volumen_esfera(radio),superficie_esfera(radio));
 }

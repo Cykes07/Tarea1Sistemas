@@ -1,0 +1,2 @@
+2024/11/09: acosta - Ingreso fallido usuario/clave erróneo
+2024/11/09: elavid - Ingreso fallido usuario/clave erróneo
